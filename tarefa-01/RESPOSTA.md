@@ -15,3 +15,6 @@
 |`C`          |
 |`C++`        |
 |`JavaScript` |
+|`HTML`       |
+|`CSS`        |
+|`SQL`        |
